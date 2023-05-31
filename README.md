@@ -1,2 +1,2 @@
 # TicTacToe
-I developed this app using swift.
+I developed this childhood game using swift.
